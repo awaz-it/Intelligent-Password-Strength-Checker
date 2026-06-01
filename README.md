@@ -19,7 +19,7 @@ A machine learning-powered password strength checker that uses a Random Forest c
 ## 📁 Project Structure
 
 ```
-helin ai/
+awaz ai/
 │
 ├── main.py                 # Entry point for the application
 ├── model.py                # Random Forest classifier training and prediction
@@ -43,7 +43,7 @@ helin ai/
 
 1. **Navigate to the project directory:**
    ```bash
-   cd "c:\Users\WAZ\Desktop\helin ai"
+   cd "c:\Users\WAZ\Desktop\awaz ai"
    ```
 
 2. **Install required dependencies:**
